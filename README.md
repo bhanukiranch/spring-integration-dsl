@@ -19,7 +19,7 @@ The application should be run at http://localhost:8080/
 ##### Book Meeting Room
 `POST http://localhost:8080/api/booking`
 
-######Request Body
+###### Request Body
 
 {
 	"userInfo": {
@@ -32,7 +32,7 @@ The application should be run at http://localhost:8080/
 	}
 }
 
-######Response
+###### Response
 
 {
     "bookingId": "20191114454053381"

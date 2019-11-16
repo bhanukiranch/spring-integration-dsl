@@ -21,7 +21,7 @@ The application should be run at http://localhost:8080/
 
 ###### Request Body
 
-{
+`{
 	"userInfo": {
 		"empId" : "102",
 		"email" : "xxx@x.com"
@@ -30,13 +30,13 @@ The application should be run at http://localhost:8080/
 		"roomId" : "02",
 		"timeId" : "102"
 	}
-}
+}`
 
 ###### Response
 
-{
+`{
     "bookingId": "20191114454053381"
-}
+}`
 
 
 ##### Release Meeting Room
